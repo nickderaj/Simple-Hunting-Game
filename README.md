@@ -46,7 +46,7 @@ If you have any questions, then feel free to contact me on the below:
 
 | <img src=".\img\GameCharacters.png" width="500"> |
 | :----------------------------------------: |
-| **Figure 1.** _Characters Loki & Jax_ |
+| **Figure 0.** _Characters Loki & Jax_ |
 
 | <img src=".\img\GameInit.png" width="500"> |
 | :----------------------------------------: |
