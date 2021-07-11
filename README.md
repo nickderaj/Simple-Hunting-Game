@@ -11,7 +11,8 @@
 ## Description
 
 This is a take on the coding challenge posted by kaizenx on GitHub: https://github.com/kaizenx/supahands-coding-test<br>
-A simple web-based game where there are two players, named after my dogs Loki & Jax, who are going through a path hunting boards along the way. The player with the most number of boars hunted by the end wins.
+The pixel artwork is done by me and based on my 2 dogs, Loki & Jax<br>
+A simple web-based game where there are two players who are going through a path hunting boards along the way. The player with the most number of boars hunted by the end wins.
 
 ## Usage Information
 
